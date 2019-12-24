@@ -5,13 +5,13 @@ A new Flutter Download manager only for android application.
 [Play store link](https://play.google.com/store/apps/details?id=com.gamesoft.download)
 
 ## Screen shots
-<p align="left">
+<p align="center">
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_dark.png",  width="300">
-  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_white.png",  width="200">
+  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_white.png",  width="300">
 </p>
-<p align="left">
-  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_dark.png",  width="200">
-  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_white.png",  width="200">
+<p align="center">
+  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_dark.png",  width="300">
+  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_white.png",  width="300">
 </p>
 
 ## Getting Started
