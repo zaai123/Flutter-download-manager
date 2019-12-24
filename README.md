@@ -1,8 +1,10 @@
 # download_manager
 
-A new Flutter application.
+A new Flutter Download manager only for android application.
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
