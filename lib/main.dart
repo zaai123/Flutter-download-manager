@@ -6,7 +6,6 @@ import 'package:download_manager/pages/list_page.dart';
 import 'package:download_manager/util/util.dart';
 import 'package:download_manager/util/widget_utils.dart';
 import 'package:downloads_path_provider/downloads_path_provider.dart';
-import 'package:firebase_admob/firebase_admob.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -24,21 +23,21 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> implements ThemeCallBack, AdsCallBack {
 
-  MobileAdTargetingInfo _targetingInfo;
+ /* MobileAdTargetingInfo _targetingInfo;
 
   InterstitialAd interstitialAd;
-
+*/
   bool isInterstitialLoaded = false;
 
   @override
   void initState() {
     super.initState();
 
-    _targetingInfo = MobileAdTargetingInfo(
+    /*_targetingInfo = MobileAdTargetingInfo(
         testDevices: <String>["921d9f790bee2d556a0c1ba857458eb0"]);
 
     //FirebaseAdMob.instance.initialize(appId: Constants.APP_ID);
-    InterstitialAd interstitialAd;
+    InterstitialAd interstitialAd;*/
     loadInterstitial();
 
 

@@ -4,6 +4,11 @@ A new Flutter Download manager only for android application.
 
 [Play store link](https://play.google.com/store/apps/details?id=com.gamesoft.download)
 
+## Get started
+- Change package name because it will not work
+- To make this project please create a Firebase project and download google-services.json & put in android/app folder
+
+
 ## Screen shots
 <p align="center">
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_dark.png",  width="300">
