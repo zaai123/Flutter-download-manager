@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> implements ThemeCallBack, AdsCallBack {
     _targetingInfo = MobileAdTargetingInfo(
         testDevices: <String>["921d9f790bee2d556a0c1ba857458eb0"]);
 
-    FirebaseAdMob.instance.initialize(appId: Constants.APP_ID);
+    //FirebaseAdMob.instance.initialize(appId: Constants.APP_ID);
     InterstitialAd interstitialAd;
     loadInterstitial();
 
@@ -167,7 +167,7 @@ class _MyAppState extends State<MyApp> implements ThemeCallBack, AdsCallBack {
   }
 
   void loadInterstitial() {
-    interstitialAd = InterstitialAd(
+    /*interstitialAd = InterstitialAd(
       //adUnitId: InterstitialAd.testAdUnitId,
         adUnitId: Constants.INTERSTITIAL_ID,
         listener: (MobileAdEvent event) {
@@ -179,14 +179,14 @@ class _MyAppState extends State<MyApp> implements ThemeCallBack, AdsCallBack {
             Util.adsCounter++;
           }
         })
-      ..load();
+      ..load();*/
   }
 
   @override
   showInterstitial() {
-   if(interstitialAd != null && isInterstitialLoaded){
+  /* if(interstitialAd != null && isInterstitialLoaded){
      interstitialAd.show();
-   }
+   }*/
   }
 }
 

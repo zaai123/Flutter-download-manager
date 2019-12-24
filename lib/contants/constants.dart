@@ -9,7 +9,7 @@ class Constants {
   static const String SORT_UP_DOWN_PREF = 'sortUpDownPref';
   static const String EXTENSION_PREF = 'extensionPref';
 
-  static const String INTERSTITIAL_ID = 'ca-app-pub-8489148938629387/3597411537';
-  static const String APP_ID = 'ca-app-pub-8489148938629387~6162598490';
+  /*static const String INTERSTITIAL_ID = '';
+  static const String APP_ID = '';*/
 
 }

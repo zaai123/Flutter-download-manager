@@ -42,9 +42,9 @@ class _SettingsPageState extends State<SettingsPage> {
   @override
   void initState() {
     super.initState();
-    if(Util.adsCounter < 1){
+    /*if(Util.adsCounter < 1){
       adsCallBack.showInterstitial();
-    }
+    }*/
     getPackageInfo();
     valueTheme = Util.isDarkThemeOn;
     valueExtension = Util.isExtensionOn;
