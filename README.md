@@ -6,10 +6,9 @@ A new Flutter Download manager only for android application.
 
 ## Screen shots
 <p align="left">
-  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_dark.png">
+  <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_dark.png",  width="300">
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/1_white.png">
 </p>
-
 <p align="left">
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_dark.png">
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_white.png">
