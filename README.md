@@ -1,6 +1,8 @@
-# download_manager
+# flutter_download_manager
 
 A new Flutter Download manager only for android application.
+
+## [Play store link] https://play.google.com/store/apps/details?id=com.gamesoft.download
 
 ## Getting Started
 
