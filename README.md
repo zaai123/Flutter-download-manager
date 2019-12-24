@@ -12,8 +12,20 @@ A new Flutter Download manager only for android application.
   <img src="https://github.com/zaai123/Flutter-download-manager/blob/master/2_white.png",  width="300">
 </p>
 
-## Getting Started
+## Features
+- Sort options
+- Delete, move, copy, zip ,unzip files
+- Share files
+- Create directories
+- Dracula theme
+- Settings
 
+## Things to add
+- Search bar
+- Grid view option
+- ...
+
+## Basic Flutter information
 
 This project is a starting point for a Flutter application.
 
