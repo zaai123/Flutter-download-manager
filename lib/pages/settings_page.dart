@@ -150,7 +150,7 @@ class _SettingsPageState extends State<SettingsPage> {
   }
 
   _launchURL() async {
-    const url = 'https://gifs-app.com/DownloadManagerPrivacyController';
+    const url = '';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
