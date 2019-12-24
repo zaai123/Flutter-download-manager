@@ -1,0 +1,213 @@
+{
+  "@@last_modified": "2019-12-23T19:37:13.196615",
+  "appName": "Download manager",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createFolderTitle": "Criar pasta",
+  "@createFolderTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "folderNameHint": "Nome da pasta",
+  "@folderNameHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Crio",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "list": "Lista",
+  "@list": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sortBy": "Ordenar por",
+  "@sortBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nome",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Tamanho",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateAndTime": "Data hora",
+  "@dateAndTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Tipo",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Crescente",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descendente",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Feito",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Configurações",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableTheme": "Ativar tema escuro",
+  "@enableTheme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "disableTheme": "Desativar Tema escuro",
+  "@disableTheme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideExtension": "Ocultar extensão",
+  "@hideExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showExtension": "Mostrar extensão",
+  "@showExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy": "Privacidade",
+  "@privacy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Política de Privacidade",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicySubtitle": "Confira nossa política de privacidade",
+  "@privacyPolicySubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "Sobre",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersion": "Versão da aplicação",
+  "@appVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSure": "Você tem certeza?",
+  "@areYouSure": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureDesc": "Tem certeza de que deseja excluir esses arquivos? Depois de excluí-los, você não pode recuperá-los.",
+  "@areYouSureDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Excluir",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareFile": "Compartilhar arquivo",
+  "@shareFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareFiles": "Compartilhar arquivos",
+  "@shareFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creatingZip": "Criando zip",
+  "@creatingZip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseWait": "Por favor, espere",
+  "@pleaseWait": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extractHere": "Extrair aqui",
+  "@extractHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copy": "Cópia",
+  "@copy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyHere": "Copie aqui",
+  "@copyHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "move": "Mover",
+  "@move": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moveHere": "Mover aqui",
+  "@moveHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "Selecionado",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moveWarning": "Você não pode mover arquivos no mesmo diretório",
+  "@moveWarning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyWarning": "Yvocê não pode copiar arquivos no mesmo diretório",
+  "@copyWarning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdSuccess": "Criado com sucesso",
+  "@createdSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteSuccess": "Arquivos excluídos com sucesso",
+  "@deleteSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFiles": "Nenhum arquivo baixado encontrado!",
+  "@noFiles": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "@@last_modified": "2019-12-23T19:37:13.196615",
+  "appName": "Download manager",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createFolderTitle": "Create folder",
+  "@createFolderTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "folderNameHint": "Folder name",
+  "@folderNameHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Create",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "list": "List",
+  "@list": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sortBy": "Sort By",
+  "@sortBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Size",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateAndTime": "Date & time",
+  "@dateAndTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Type",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descending",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Done",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enableTheme": "Enable dark theme",
+  "@enableTheme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "disableTheme": "Disable Theme",
+  "@disableTheme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideExtension": "Hide Extension",
+  "@hideExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showExtension": "Show extension",
+  "@showExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy": "Privacy",
+  "@privacy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicySubtitle": "Check out our orivacy policy",
+  "@privacyPolicySubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersion": "App version",
+  "@appVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSure": "Are you sure?",
+  "@areYouSure": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureDesc": "Are you sure you want to delete these files? Once you delete them you can't recover them.",
+  "@areYouSureDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Delete",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareFile": "Share File",
+  "@shareFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareFiles": "Share Files",
+  "@shareFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creatingZip": "Creating zip",
+  "@creatingZip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseWait": "Please wait",
+  "@pleaseWait": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extractHere": "Extract Here",
+  "@extractHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copy": "Copy",
+  "@copy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyHere": "Copy here",
+  "@copyHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "move": "Move",
+  "@move": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moveHere": "Move here",
+  "@moveHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "Selected",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moveWarning": "You cannot move files in same direcotry",
+  "@moveWarning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyWarning": "You cannot copy files in same direcotry",
+  "@copyWarning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdSuccess": "Created successfully",
+  "@createdSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteSuccess": "Files deleted successfully",
+  "@deleteSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFiles": "No downloaded files found!",
+  "@noFiles": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
