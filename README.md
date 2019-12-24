@@ -23,7 +23,7 @@ A new Flutter Download manager only for android application.
 ## Things to add
 - Search bar
 - Grid view option
-- ...
+- iOS support
 
 ## Basic Flutter information
 
