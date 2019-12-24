@@ -2,7 +2,7 @@
 
 A new Flutter Download manager only for android application.
 
-[online documentation](https://flutter.dev/docs)
+[Play store link](https://play.google.com/store/apps/details?id=com.gamesoft.download)
 
 ## Getting Started
 
